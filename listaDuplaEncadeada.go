@@ -6,7 +6,7 @@ import "fmt"
 type No struct {
     Valor    int
     Prox     *No
-    Ant *No
+    Ant      *No
 }
 
 
